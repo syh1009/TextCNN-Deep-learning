@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:/Users/\351\231\210\346\204\217\350\214\271/Desktop/cnn/checkpoints/textcnn\\best_validation"
+all_model_checkpoint_paths: "C:/Users/\351\231\210\346\204\217\350\214\271/Desktop/cnn/checkpoints/textcnn\\best_validation"
