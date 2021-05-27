@@ -23,6 +23,7 @@ cnews.test.txt: 测试集(10000条)每类1000条
 链接：https://pan.baidu.com/s/1Sj7Go2bLYGLhgqoRLaS9og 
 提取码：6sb1 
 复制这段内容后打开百度网盘手机App，操作更方便哦
+
 模型介绍：
 TextCNN包含四部分：词嵌入、卷积、池化、全连接+softmax.
 文本矩阵。
