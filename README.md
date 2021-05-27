@@ -19,7 +19,10 @@ cnews.val.txt: 验证集(5000条)每类500条
 cnews.test.txt: 测试集(10000条)每类1000条
 用于检验模型的分类效果
 
-（数据集因体积过大，没有上传到GitHub）
+（数据集因体积过大，没有上传到GitHub，可从下面链接下载）
+链接：https://pan.baidu.com/s/1Sj7Go2bLYGLhgqoRLaS9og 
+提取码：6sb1 
+复制这段内容后打开百度网盘手机App，操作更方便哦
 模型介绍：
 TextCNN包含四部分：词嵌入、卷积、池化、全连接+softmax.
 文本矩阵。
